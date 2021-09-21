@@ -7,7 +7,7 @@ TinDog allows the user to find dog owners in the area and (essentially!) their d
 
 [www.tindog.com](https://gingerpianist.github.io/tindog/)
 
-![web-image] (./images/readme-image.png)
+![web-image](./images/readme-image.png)
 
 # Made with
 
