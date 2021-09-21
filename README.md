@@ -1,9 +1,16 @@
-# TinDog
+# 🐕TinDog
 
-A startup-promoting web page for a great TinDog app!
+Start up landing page for a made-up application called TinDog. It's a copycat of the well-known Tinder dating app.
+TinDog allows the user to find dog owners in the area and (essentially!) their dogs :)
 
-# Run
+# Deployment
 
-Download the repository files and siply open the index.html file inyour browser :)
+[www.tindog.com](https://gingerpianist.github.io/tindog/)
 
-OR simply see the page hosted here: [link](https://gingerpianist.github.io/tindog/)
+![web-image] (./images/readme-image.png)
+
+# Made with
+
+-   HTML
+-   CSS
+-   Bootstrap
